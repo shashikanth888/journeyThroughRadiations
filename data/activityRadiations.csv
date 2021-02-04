@@ -1,0 +1,46 @@
+activity,svPerYear,,,"1 banana (0.7kg) = 0.00001 Sv
+1 kg banana = 0.00001428571 Sv
+1 kg banana = 3,520 K = 1 Ra
+1 Ra = 0.00001428571 Sv
+1 K = 4.05844034e-9 Sv
+
+"
+Astronauts,0.5,,,
+Radiology techniicial,0.05,,,219 - 730 Ra
+banana,0.0000365,,,
+carrots,0.000073,,,
+potatoes,0.00009125,,,
+lima beans,0.0001825,,,
+red meat,0.00001825,,,
+brazil nuts,0.000009125,,,
+Living within 50 miles of nuclear power plant,0.00000009,,,
+Sleeping next to someone,0.00000005,,,
+Arm x- ray,0.000001,,,
+CRT monitor FOR a year,0.000001,,,
+Dental x-ray,0.000005,,,
+Chest x-ray,0.00002,,,
+Living in stone / brick / conrecte bulding for year,0.00007,,,
+Yearly dose from natural potassium in body,0.00039,,,
+ePA yearly release limit for a nuclear power plant,0.00025,,,
+Mammogram,0.0004,,,
+Head CT Scan,0.002,,,
+Chest CT scan,0.007,,,
+Radiation worker dose limit,0.05,,,
+Television,0.00001,,,
+Drinking water,0.00005,,,
+Natural gas,0.00009,,,
+Consumer products,0.011,,,
+Soil,0.00011,,,
+Plane. Transcontiental flight,0.00018,,,
+Cigarette smoking,0.013,,,
+Dental work using ceramincs,0.01,,,
+Whole body CT,0.01,,,
+Radon in average US home / year,0.00228,,,
+Cosmic radiation living at sea level,0.0003,,,
+Cosmic radiation living in Denver / high elevation / annual,0.0008,,,
+Terrestrial radioactivity / year,0.00021,,,
+Upper gastrointenstinal X-ray,0.006,,,
+Airport security scan,0.0000015,,,
+Cathode ray computer monitor,0.000001,,,
+Lowest one-year dose clearly linked to increase cancer risk,0.1,,,
+Fatal radiation poisoning,4,,,
